@@ -12,7 +12,7 @@
 ### [PWA]()
 ### [Axios]()
 ### [Ant Design]()
-### Package manager js
+#### Package manager js
 - npm 
 - yarn
 - pnpm - npx
