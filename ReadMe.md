@@ -13,25 +13,25 @@ https://roadmap.sh/
 coming soon
 ### [js-(es6)](https://www.w3schools.com/js/js_es6.asp)
 ### important Array function
-1.filter 
-2.map
-3.foreach 
-4.findIndex
-5.find
-6.include
-7.slice
-5.splice
+1. filter 
+2. map
+3. foreach 
+4. findIndex
+5. find
+6. include
+7. slice
+5. splice
 ###### important es 6
-1.let and const Keywords
-2.Arrow Functions
-3.Multi-line Strings
-4.Default Parameters
-5.Template Literals
-6.Destructuring Assignment
-7.Enhanced Object Literals
-8.Promises
-9.Classes
-10.Modules
+1. let and const Keywords
+2. Arrow Functions
+3. Multi-line Strings
+4. Default Parameters
+5. Template Literals
+6. Destructuring Assignment
+7. Enhanced Object Literals
+8. Promises
+9. Classes
+10. Modules
 ### [Vue js (vue3)](https://vuejs.org/)
 ##### important
 [vue 3 sfc - setup ](https://vuejs.org/api/sfc-script-setup.html)   or   [sfc](https://v3.ru.vuejs.org/api/sfc-script-setup.html)
